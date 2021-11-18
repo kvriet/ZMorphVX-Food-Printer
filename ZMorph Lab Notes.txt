@@ -29,4 +29,45 @@ Ingredients aqua faba (didn't weigh but probably 150 gr) + 250gr sugar + 1/2 tsp
 
 Mixture #2:
 Added 1 packet of klopfix to remainder (1/2?) of the mixture but still too soft
-We used a 
+We used a creme brulee burner to bake the meringues a little which helped them retain their shape.
+
+Meringue printing #3 - 17/11/2021
+
+Objectives: make a firmer vegan meringue mixture and print with it
+
+Results:
+Mixture #1:
+- 94 gr aqua faba
+- 47 gr sugar
+- 141 gr sugar
+- 47 gr water
+- 1.3 gr cream of tartar
+
+This meringue is much more firm! First succesful print!
+
+Cura profile:
+- initial layer height: 0.5mm
+- lower layer: 2mm
+- initial flow: 15%
+- normal flow: 5%
+
+We need to keep track of the total volume of what we want to print as our syringe volume is roughly 70ml.
+
+
+Meringue printing #4 - 18/11/2021
+
+Objectives: add agar to the meringue mixture and test with print
+
+Results:
+Mixture #1:
+- 104 gr aqua faba
+- 52 gr water
+- 158 gr sugar
+- 52 gr water
+- 1.3 gr cream of tartar
+- 0.8 gr agar
+
+Printed a hollow cylinder without bottom. Was quite firm but showed buckling at the base. Printed bar held up quite well but started showing buckling on infill at roughly layer 5. Top infill worked well.
+
+
+
