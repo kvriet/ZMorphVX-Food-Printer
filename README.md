@@ -1,4 +1,4 @@
-This is a student repositoty created for the ZMorphVX Printer with Thick Paste Extruder, owned by the TU/e (Eindhoven University of Technology).
+This is a student repository created for the ZMorphVX Printer with Thick Paste Extruder, owned by the TU/e (Eindhoven University of Technology).
 
 
 Here you can find:
