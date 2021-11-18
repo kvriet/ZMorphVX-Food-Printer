@@ -1,0 +1,32 @@
+Lab notes
+
+Meringue printing #1 - 9/11/2021
+
+Objective: get a feel for the printer with an existing food 3D printing recipe.
+
+Results: We didn't manage to print anything due to missing parts / nozzles that were too short.
+
+Problems:
+- nozzle approx. 14mm too short
+- (syringe doesn't go into x carriage deep enough)
+
+Solutions:
+- (resin) print new nozzles to fit luer lock syringe
+- extend current nozzle
+- buy longer nozzles
+
+
+Meringue printing #2 - 15/11/2021
+
+Objective: get a feel for the printer with a vegan 3D food printing recipe
+
+Done since last time:
+- FDM printed a number of nozzles in PLA (0.1 layer height): 0.75, 1, 1.5, 2, 3mm
+
+Results: 
+Mixture #1: 
+Ingredients aqua faba (didn't weigh but probably 150 gr) + 250gr sugar + 1/2 tsp cream of tartar. 20 mins of whipping: still not firm enough for printing in height. Much less firm than egg white meringue.
+
+Mixture #2:
+Added 1 packet of klopfix to remainder (1/2?) of the mixture but still too soft
+We used a 
