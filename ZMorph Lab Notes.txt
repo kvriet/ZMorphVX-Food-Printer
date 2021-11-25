@@ -1,4 +1,6 @@
-Lab notes
+Lab notes for developing a paste for 3D printing and exploring different printing geometries and techniques
+by Katrien van Riet
+
 
 Meringue printing #1 - 9/11/2021
 
@@ -69,5 +71,63 @@ Mixture #1:
 
 Printed a hollow cylinder without bottom. Was quite firm but showed buckling at the base. Printed bar held up quite well but started showing buckling on infill at roughly layer 5. Top infill worked well.
 
+
+Meringue printing #5 - 24/11/2021
+
+Objectives: add chlorella to the meringue mixture and test with print
+try different geometries and print settings to create higher resolution
+try baking the prints in the oven straight away
+
+Results
+Mixture #1:
+- 92 gr aqua faba
+- 46 gr sugar
+Whip until stiff
+
+- 46 gr water
+- 138 gr water
+- 1.3 gr cream of tartar
+Boil to 120 degrees C
+
+Add hot sugar mix to aqua faba whip
+
+Add
+- 1.38 gr agar to the warm mix
+
+Add
+- 1.3 gr chlorella to the mix
+
+The meringue did not become stiff/firm. We think this was vecause 20 mins elapsed between whipping the aqua faba and adding the sugar water.
+
+
+Mixture #2:
+- 96 gr aqua faba
+- 48 gr sugar
+Whip until stiff
+
+- 48 gr water
+- 144 gr water
+- 1.3 gr cream of tartar
+Boil to 120 degrees C
+
+Add hot sugar mix to aqua faba whip
+
+Add
+- 0.96 gr agar to the warm mix (1% of aqua faba amount)
+
+Add
+- 3.8 gr chlorella to the mix (1% of total mixture (minus chlorella) amount)
+
+The meringue was firmer than the mixture without chlorella (18/11/2021). Possibly adding the chlorella enabled the colloid function of the small chlorella particles.
+
+Baked all of them in the oven at 100 degrees Celsius for 30-45 mins. 
+
+Finding:
+With a 15% lines infill, we could see the infill through the top layer of the baked meringue. This is an interesting effect that we can possibly leverage in future designs. Most of the bars looked like rectangular blobs after baking. 
+
+Future steps/things to check:
+Maybe increase heat a little (130?) to make the meringue set more quickly, thus reducing sag and maintaining the printed shape better. We could also place an oven thermometer inside the oven to check if it really heats up to 100 degrees. Also, we placed the bars directly on to the metal plate at the bottom of the oven. A raised platform (with a finer mesh to prevent meringue from sagging through) might work better. Now the bottom of the bars got burnt because of the hot metal sheet. Maybe we can use the foaminess of the meringue batter as an asset/feature in our designs?
+
+New profile created for 1mm nozzles.
 
 
