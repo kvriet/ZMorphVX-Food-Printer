@@ -130,4 +130,12 @@ Maybe increase heat a little (130?) to make the meringue set more quickly, thus 
 
 New profile created for 1mm nozzles.
 
+The following settings seem to work well:
+- 2mm layer height
+- 1mm nozzle 
+- flow rate: 5% for lines, or 10% for tri-hex (always 15% initial layer)
+- speed 5 mm/s
+- infill: 10% lines or 15% tri-hex
+- no bottom
+- experiment with no top
 
